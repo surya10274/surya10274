@@ -1,1 +1,7 @@
-Hi there , My name is Surya Shwetabh Tiwari ,My Registration number is 25BAI10274, I wish to become a great data scientist.
+Hi, I'm Surya Tiwari.
+
+B.Tech student specializing in Artificial Intelligence & Machine Learning at VIT Bhopal.
+
+I'm passionate about Artificial Intelligence, Machine Learning, software development, and problem-solving. Currently focused on strengthening my programming fundamentals, exploring AI/ML technologies, and building practical projects.
+
+Always learning. Always building.
